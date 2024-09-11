@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/a924a2f0-b6c8-49dc-a469-78c19aa00b24)
+
 Ultimate Flower Seller Website
 =============================
 
@@ -13,7 +15,7 @@ Welcome to the Ultimate Flower Seller website, a platform for showcasing beautif
 
 ### Installation
 
-1. Clone the repository using `git clone https://github.com/your-username/ultimate-flower-seller.git`
+1. Clone the repository using `git clone https://github.com/akshatjaiin/garden.git`
 2. Open the project folder in your code editor or IDE
 3. Open `index.html` in your web browser to view the website
 
@@ -49,7 +51,7 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 **Author**
 ---------
 
-Akshat
+Akshat/Yash
 
 **Version**
 ----------
